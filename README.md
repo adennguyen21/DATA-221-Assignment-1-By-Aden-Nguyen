@@ -1,6 +1,5 @@
 DATA 221 Assignment 1, By Aden Nguyen
 -------------------------------------------
-(Note: For some of these questions, I wasn't too sure what exactly they were asking for, so I went with what made the most sense.)
 
 Quick Descriptions of each question/file:
 - Question 1:
