@@ -13,7 +13,7 @@ Quick Descriptions of each question/file:
   Given a nested list of integers in pairs, this question asks to define a function that calculates each pair from the list as an exponent of the other, while skipping all the pairs where the exponent is negative. All of the results are then put inside a new list, and get printed out.
     
 - Question 4:
-  Making use of the random library 
+  Making use of the random library, this question asks to find all the indices of a randomly generated list of values between 0 and 1, that are greater than or equal to a random value "x". It then asks to print out the sorted list of random values, the value of "x", and the first matching index if it exist. (I wasn't too sure if the question wanted the index of the first value that is equal to "x", or the first value that is greater than or equal to "x", so I just put both.)
   
 - Question 5:
 
