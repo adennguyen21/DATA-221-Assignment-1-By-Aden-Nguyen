@@ -16,6 +16,7 @@ Quick Descriptions of each question/file:
   Making use of the random library, this question asks to find all the indices of a randomly generated list of values between 0 and 1, that are greater than or equal to a random value "x". It then asks to print out the sorted list of random values, the value of "x", and the first matching index if it exist. (I wasn't too sure if the question wanted the index of the first value that is equal to "x", or the first value that is greater than or equal to "x", so I just put both.)
   
 - Question 5:
+  This question asks to define a function that calculated the areas of two circles with given radii from the user, and the percentage of how much the smaller circle covers the larger circle's area, which is then printed out. The question also requires you to handle invalid inputs with meaningful messages.
 
 - Question 6:
 
