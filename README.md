@@ -22,7 +22,7 @@ Quick Descriptions of each question/file:
   Simliar to the last question, question 6 asks to define a function that for each value in a given list, finds the percentage of all the elements that are less than or equal to that value, compared to the total number of elements in that list. Each unique value is then put as a key in a dictionary, with their assigned value being their percentage.
   
 - Question 7:
-  
+  For Question 7, it asks to write a function that gets an input from the user for the number of seconds it's been since midnight, then converts the seconds into what the actual time would be relative to midnight, which is then printed out as a formatted string. This question also requires you to handle invalid inputs with meaningful messages. (I wasn't sure if the output needed to be just the hours, minutes, seconds, and whether if it was AM or PM all printed out separately, or if it needed to be like how a clock would work. So I just wrote it like how a clock would work, because that made more sense to me.)
 
 - Question 8:
 
